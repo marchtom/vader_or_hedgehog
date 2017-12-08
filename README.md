@@ -1,5 +1,5 @@
 # vader_or_hedgehog
-Short script implementing AlexNet to distinguish pictures of Darth Vader from hedgehogs
+Short script implementing AlexNet to distinguish pictures of Darth Vader from hedgehogs. Due to small amount of pictures the learning capability is limited.
 (AlexNet: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
 TFlearn, numpy, cv2
